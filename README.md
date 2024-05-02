@@ -1,4 +1,4 @@
-# Tarefa---ODBC-e-ORM
+# Tarefa - ODBC e ORM
 
 Nome: GAbriel Wallace Canuto Dos Santos
 
